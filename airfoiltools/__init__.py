@@ -1,0 +1,1 @@
+from airfoiltools.geometry import *
